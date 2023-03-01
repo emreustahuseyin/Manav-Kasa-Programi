@@ -3,9 +3,9 @@
 
 
 
-import java.util.Scanner;
+     import java.util.Scanner;
 
-public class manav {
+      public class manav {
 
     public static void main(String[] args) {
 
