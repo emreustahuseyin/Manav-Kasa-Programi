@@ -1,6 +1,8 @@
 # Manav-Kasa-Programi
 
 
+
+
 import java.util.Scanner;
 
 public class manav {
